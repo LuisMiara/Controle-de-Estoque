@@ -1,0 +1,4 @@
+C:\Users\luisg\onedrive\documentos\visual studio 2015\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\luisg\onedrive\documentos\visual studio 2015\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\luisg\onedrive\documentos\visual studio 2015\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\luisg\onedrive\documentos\visual studio 2015\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb

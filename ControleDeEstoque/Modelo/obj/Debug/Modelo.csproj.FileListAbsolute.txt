@@ -1,0 +1,4 @@
+C:\Users\luisg\onedrive\documentos\visual studio 2015\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\luisg\onedrive\documentos\visual studio 2015\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\luisg\onedrive\documentos\visual studio 2015\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\luisg\onedrive\documentos\visual studio 2015\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
